@@ -1,4 +1,4 @@
-# HerramientasBasicas-Castillo-Evelyn# Análisis de Facturación
+# Análisis de Facturación
 Este proyecto tiene como objetivo analizar el comportamiento de la facturación a partir de un dataset real, utilizando herramientas de análisis de datos y visualización.
 
 ## Limpieza y preparación de datos
