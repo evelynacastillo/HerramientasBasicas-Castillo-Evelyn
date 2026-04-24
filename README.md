@@ -1,3 +1,7 @@
+Autor: Evelyn Castillo  
+Curso: Herramientas básicas para el Análisis de Datos
+Cohorte: 2026
+
 # Análisis de Facturación
 Este proyecto tiene como objetivo analizar el comportamiento de la facturación a partir de un dataset real, utilizando herramientas de análisis de datos y visualización.
 
